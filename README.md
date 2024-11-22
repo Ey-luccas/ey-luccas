@@ -34,6 +34,22 @@ Olá! Sou Luccas Almeida, estudante de Técnico em Informática no Instituto Fed
 />
 <img 
     align="left" 
+    alt="JavaScript" 
+    title="Node.JS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/user-attachments/assets/a9fde323-e7e2-4ced-9d76-6ab73dba2217"
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
@@ -51,7 +67,7 @@ Olá! Sou Luccas Almeida, estudante de Técnico em Informática no Instituto Fed
 <img 
     align="left" 
     alt="Python" 
-    title="Python"
+    title="Slite3"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" 
