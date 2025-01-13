@@ -34,7 +34,7 @@ Olá! Sou Luccas Almeida, estudante de Técnico em Informática no Instituto Fed
 />
 <img 
     align="left" 
-    alt="JavaScript" 
+    alt="Node.js" 
     title="Node.JS"
     width="30px" 
     style="padding-right: 10px;" 
@@ -42,11 +42,11 @@ Olá! Sou Luccas Almeida, estudante de Técnico em Informática no Instituto Fed
 />
 <img 
     align="left" 
-    alt="React"
-    title="React" 
+    alt="Django"
+    title="Django" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" 
 />
 <img 
     align="left" 
