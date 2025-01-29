@@ -42,6 +42,14 @@ Olá! Sou Luccas Almeida, estudante de Técnico em Informática no Instituto Fed
 />
 <img 
     align="left" 
+    alt="TypeScript" 
+    title="TypeScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"
+/>
+<img 
+    align="left" 
     alt="Python" 
     title="Python"
     width="30px" 
