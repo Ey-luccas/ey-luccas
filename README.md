@@ -110,7 +110,7 @@ Olá! Sou Luccas Almeida, estudante de Técnico em Informática no Instituto Fed
       alt="GitHub Stats" 
       height="200" 
       width="400"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ey-Luccas&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ey-Luccas&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&include_all=true&hide=javascript&access_token=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" 
   />
 
 </p>
