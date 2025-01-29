@@ -84,9 +84,9 @@ Olá! Sou Luccas Almeida, estudante de Técnico em Informática no Instituto Fed
     align="left" 
     alt="Mysql" 
     title="Mysql"
-    width="30px" 
+    width="60px" 
     style="padding-right: 10px;" 
-    src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" 
+    src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" 
 />
 
 
