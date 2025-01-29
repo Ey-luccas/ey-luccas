@@ -34,19 +34,19 @@ Olá! Sou Luccas Almeida, estudante de Técnico em Informática no Instituto Fed
 />
 <img 
     align="left" 
-    alt="Node.js" 
-    title="Node.JS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://github.com/user-attachments/assets/a9fde323-e7e2-4ced-9d76-6ab73dba2217"
-/>
-<img 
-    align="left" 
     alt="TypeScript" 
     title="TypeScript"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"
+/>
+<img 
+    align="left" 
+    alt="Node.js" 
+    title="Node.JS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/user-attachments/assets/a9fde323-e7e2-4ced-9d76-6ab73dba2217"
 />
 <img 
     align="left" 
@@ -80,6 +80,16 @@ Olá! Sou Luccas Almeida, estudante de Técnico em Informática no Instituto Fed
     style="padding-right: 10px;" 
     src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" 
 />
+<img 
+    align="left" 
+    alt="Mysql" 
+    title="Mysql"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" 
+/>
+
+
 <br/>
 <br/>
 
