@@ -90,7 +90,8 @@ Olá! Sou Luccas Almeida, estudante de Técnico em Informática no Instituto Fed
 />
 
 <br/>
----
+
+
 ### 📊 Estatísticas
 
 <p align="left">
@@ -105,12 +106,10 @@ Olá! Sou Luccas Almeida, estudante de Técnico em Informática no Instituto Fed
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ey-Luccas&theme=blueberry&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
-
 <br>
-
-### 🕹 Movimentações
-
 <p align="left">
+    
+  ## 🕹 Movimentações
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ey-luccas/ey-luccas/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ey-luccas/ey-luccas/output/github-contribution-grid-snake.svg">
