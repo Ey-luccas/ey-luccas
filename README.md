@@ -4,9 +4,7 @@
 
 Olá! Sou Luccas Almeida, estudante de Técnico em Informática no Instituto Federal. Tenho formação em front-end junior e atuo como estagiário em data science, área onde descobri minha verdadeira paixão. Estou sempre em busca de novos conhecimentos e desafios, pronto para colaborar em grandes projetos e aprender continuamente. Fique à vontade para explorar meus projetos públicos e, se quiser, me acompanhe no Instagram!  [@Eyluccas_](https://www.instagram.com/eyluccas_/).
 
----
-
-### 🤖 Linguagens e Tecnologias
+### 🖤 LINGUAGENS E TECNOLOGIAS 
 
 <img 
     align="left" 
@@ -90,9 +88,12 @@ Olá! Sou Luccas Almeida, estudante de Técnico em Informática no Instituto Fed
 />
 
 <br/>
+<br>
 
+---
+</br>
 
-### 📊 Estatísticas
+### 🎩 ESTATÍSTICA 
 
 <p align="left">
   <img 
@@ -106,7 +107,6 @@ Olá! Sou Luccas Almeida, estudante de Técnico em Informática no Instituto Fed
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ey-Luccas&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
-<br>
 <p align="left">
     
   ## 🕹 Movimentações
@@ -116,4 +116,3 @@ Olá! Sou Luccas Almeida, estudante de Técnico em Informática no Instituto Fed
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ey-luccas/ey-luccas/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
-</br>
