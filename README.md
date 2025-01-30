@@ -90,7 +90,7 @@ Olá! Sou Luccas Almeida, estudante de Técnico em Informática no Instituto Fed
 />
 
 <br/>
-
+---
 ### 📊 Estatísticas
 
 <p align="left">
