@@ -97,20 +97,20 @@ Olá! Sou Luccas Almeida, estudante de Técnico em Informática no Instituto Fed
   <img 
     alt="GitHub Stats" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=Ey-Luccas&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Ey-Luccas&show_icons=true&theme=blueberry&include_all_commits=true&locale=pt-br" 
   />
   <img 
     alt="GitHub Top Languages" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ey-Luccas&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ey-Luccas&theme=blueberry&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
 
 <br>
 
-### 🕹Movimentações
+### 🕹 Movimentações
 
-<p align="center">
+<p align="left">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ey-luccas/ey-luccas/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ey-luccas/ey-luccas/output/github-contribution-grid-snake.svg">
