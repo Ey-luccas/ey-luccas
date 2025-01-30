@@ -106,6 +106,9 @@ Olá! Sou Luccas Almeida, estudante de Técnico em Informática no Instituto Fed
   />
 </p>
 
+<br>
+
+### 🕹Movimentações
 
 <p align="center">
   <picture>
@@ -114,4 +117,4 @@ Olá! Sou Luccas Almeida, estudante de Técnico em Informática no Instituto Fed
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ey-luccas/ey-luccas/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
-
+</br>
