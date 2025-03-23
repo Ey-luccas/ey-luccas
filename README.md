@@ -1,6 +1,6 @@
 # Ei aí! Luccas Almeida
 
-**`Data Science`** **`Fullstack`**
+**`NLP Engineer`** **`Fullstack`**
 
 Olá! Sou Luccas Almeida, estudante de Técnico em Informática no Instituto Federal. Tenho formação em front-end junior e atuo como estagiário em data science, área onde descobri minha verdadeira paixão. Estou sempre em busca de novos conhecimentos e desafios, pronto para colaborar em grandes projetos e aprender continuamente. Fique à vontade para explorar meus projetos públicos e, se quiser, me acompanhe no Instagram!  [@Eyluccas_](https://www.instagram.com/eyluccas_/).
 
