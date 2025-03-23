@@ -1,10 +1,10 @@
-# Ei aí! Luccas Almeida
+# Hey there! Luccas Almeida
 
 **`NLP Engineer`** **`Fullstack`**
 
-Olá! Sou Luccas Almeida, estudante de Técnico em Informática no Instituto Federal. Tenho formação em front-end junior e atuo como estagiário em data science, área onde descobri minha verdadeira paixão. Estou sempre em busca de novos conhecimentos e desafios, pronto para colaborar em grandes projetos e aprender continuamente. Fique à vontade para explorar meus projetos públicos e, se quiser, me acompanhe no Instagram!  [@Eyluccas_](https://www.instagram.com/eyluccas_/).
+Hello! I'm Luccas Almeida, a Computer Technician student at Instituto Federal. I have a background in junior fullstack and I work as an intern in NLP Engineer and back-end, areas where I discovered my true passion. I'm always looking for new knowledge and challenges, ready to collaborate on big projects and learn continuously. Feel free to explore my public projects and, if you want, follow me on Instagram! [@Eyluccas_](https://www.instagram.com/eyluccas_/).
 
-### 🖤 LINGUAGENS E TECNOLOGIAS 
+### 🖤 LANGUAGES AND TECHNOLOGIES
 
 <img 
     align="left" 
@@ -93,7 +93,7 @@ Olá! Sou Luccas Almeida, estudante de Técnico em Informática no Instituto Fed
 ---
 </br>
 
-### 🎩 ESTATÍSTICA 
+### 🎩 STATISTIC
 
 <p align="left">
   <img 
@@ -109,7 +109,7 @@ Olá! Sou Luccas Almeida, estudante de Técnico em Informática no Instituto Fed
 </p>
 <p align="left">
     
-  ## 🕹 Movimentações
+  ## 🕹 Movements
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ey-luccas/ey-luccas/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ey-luccas/ey-luccas/output/github-contribution-grid-snake.svg">
